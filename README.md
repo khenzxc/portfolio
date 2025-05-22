@@ -1,1 +1,1 @@
-My Simple Website Portfolio: https://khenzxc.github.io/portfolio/#about
+My Simple Website Portfolio: https://khenzxc.github.io/portfolio/#home
